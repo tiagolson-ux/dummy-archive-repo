@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.env
+
+-sba-10-Recipe-Discovery-App/
